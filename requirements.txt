@@ -1,0 +1,2 @@
+Flask==3.0.0
+file:///Users/rasalghul/Documents/GitHub/packages/greetings_package/dist/greetings_package-0.1.tar.gz
